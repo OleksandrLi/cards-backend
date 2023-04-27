@@ -6,12 +6,7 @@
     "plugin:@typescript-eslint/recommended",
     "plugin:react/recommended"
   ],
-  "plugins": ["@typescript-eslint", "react", "simple-import-sort"],
-  "settings": {
-    "react": {
-      "version": "detect"
-    }
-  },
+  "plugins": ["@typescript-eslint", "simple-import-sort"],
   "env": {
     "browser": true,
     "node": true,
